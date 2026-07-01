@@ -1,0 +1,1923 @@
+canonical_identifier: bkk:krp/KR6k0223/v1
+canonical_location: https://kanripo.org/bkk/KR6k0223/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 毗尼止持會集
+  identifiers:
+    alt_id:
+    - X39n0709
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X39/X39n0709.xml
+    old_id: X39n0709
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0223_000.yaml, hash: 'sha256:de390271a29128e79505faf07658050b657697faef310b46c4426f26c50cee3e'}
+  - {seq: 1, filename: KR6k0223_001.yaml, hash: 'sha256:95b19c694306c30c046c69602793a2589a0faa03e65d8666f81f74394fd2fe42'}
+  - {seq: 2, filename: KR6k0223_002.yaml, hash: 'sha256:8d3faa71e13d4c6b26d151c96378b1601094177bcdac8adcc9ee07d11ab0aa2a'}
+  - {seq: 3, filename: KR6k0223_003.yaml, hash: 'sha256:af0d5d66c246e0f5ec26e306a06e22a8239f23b4c00d47982c286cafe2ba6810'}
+  - {seq: 4, filename: KR6k0223_004.yaml, hash: 'sha256:7080391de3ff6cd6ac885bd07e428365d8eb93d09274fec76ee7714f3a8150eb'}
+  - {seq: 5, filename: KR6k0223_005.yaml, hash: 'sha256:739abb66bbac7b4fab8af5a98d4b3bf81bddc38e75c518414bda7eadbffd01d4'}
+  - {seq: 6, filename: KR6k0223_006.yaml, hash: 'sha256:2751bfb524498f6a22f7dd5a8dcd886a277f8fe2f214374495ef79e9bcf03b8b'}
+  - {seq: 7, filename: KR6k0223_007.yaml, hash: 'sha256:e89255202de31231095379a9e3e9adefe8c464d3c5144314550ea67d12875f3b'}
+  - {seq: 8, filename: KR6k0223_008.yaml, hash: 'sha256:e5a69046dee9897dd3efb354da275c4a3b86521de34c49a3b39b5b827ee40a14'}
+  - {seq: 9, filename: KR6k0223_009.yaml, hash: 'sha256:167709d574ae972f0fb851b19d803e42a9568544f852187b86463b863d585075'}
+  - {seq: 10, filename: KR6k0223_010.yaml, hash: 'sha256:bf99ecf326136d31f4d0882707b663428d53e981d07da341fcaec98cdcb241b3'}
+  - {seq: 11, filename: KR6k0223_011.yaml, hash: 'sha256:5cd5c92f170326df34326c4b82da3890c4605c22b173d6c3b458627276a7a8d8'}
+  - {seq: 12, filename: KR6k0223_012.yaml, hash: 'sha256:02f251ae636b3deb8b2fac0a9eb01cc8646cddd2ad83a4d39e3da42f19c69558'}
+  - {seq: 13, filename: KR6k0223_013.yaml, hash: 'sha256:8bbeae2206b6e3bd0d60a5233daea58826ffecba3ed31ebcbfa5eac2538daf32'}
+  - {seq: 14, filename: KR6k0223_014.yaml, hash: 'sha256:a81f873020ede8975b046bd861130bb556bafb81d82e598f265baa1783bf349e'}
+  - {seq: 15, filename: KR6k0223_015.yaml, hash: 'sha256:4cee9d390bd756e9ee66ab56b6fe8e79cfa53b52c6b41527314ea1ee5e488e06'}
+  - {seq: 16, filename: KR6k0223_016.yaml, hash: 'sha256:92617e95bd2cd1e5fa198d3e0dd02898aec48c13ac1f1b03a2db1499e9af9f85'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0223_000.markers.yaml, hash: 'sha256:f7108f40aabfd2c62b88a3320c2ba2a91f8404fe44cb312cc67f18d9e9dc54ba'}
+  - {seq: 1, role: markers, filename: assets/KR6k0223_001.markers.yaml, hash: 'sha256:a9fc81e1fb14a2461cddbc19f5dc2baa2c5030389259479701ec44a30db73151'}
+  - {seq: 2, role: markers, filename: assets/KR6k0223_002.markers.yaml, hash: 'sha256:d8faa2bd5fe9f2c6726b4f0b4dbe3ae10f037993ea81394c1893cb1c106b2af6'}
+  - {seq: 3, role: markers, filename: assets/KR6k0223_003.markers.yaml, hash: 'sha256:c5e838fa69e8ce57a2eb3cda0865774eda1b8a0a702307045ecb07651b6b3875'}
+  - {seq: 4, role: markers, filename: assets/KR6k0223_004.markers.yaml, hash: 'sha256:d796455d3e3ae4d615c391c002731c03ed46e8953025c008a32622e39351642a'}
+  - {seq: 5, role: markers, filename: assets/KR6k0223_005.markers.yaml, hash: 'sha256:e00dae2ab8da1d1672e1fd761aa09e39ac96f05f72027c82d70f489b0ad19514'}
+  - {seq: 6, role: markers, filename: assets/KR6k0223_006.markers.yaml, hash: 'sha256:be0ff1f611b79927ff6eed67eca9f7736ee9a0c9d21a74f0418de57a7928775d'}
+  - {seq: 7, role: markers, filename: assets/KR6k0223_007.markers.yaml, hash: 'sha256:b42780be3c805cd98f861d2b8bd0e037c127989e07abca788c2b23dd8e7e5a92'}
+  - {seq: 8, role: markers, filename: assets/KR6k0223_008.markers.yaml, hash: 'sha256:935b8eb7b71ef20168821b33e57a2dc05c3c2a501d84c5bf10729181669a7271'}
+  - {seq: 9, role: markers, filename: assets/KR6k0223_009.markers.yaml, hash: 'sha256:8073b730338482318e1c29ebf4ed7d16ff26bebd7a6ac4c5bff07f1cf64dcf7c'}
+  - {seq: 10, role: markers, filename: assets/KR6k0223_010.markers.yaml, hash: 'sha256:fa1d182d282b8879a5b8c1e173b346ba6adf9c148a3a440def4111cd6d42ebbf'}
+  - {seq: 11, role: markers, filename: assets/KR6k0223_011.markers.yaml, hash: 'sha256:14c13f1b958216fec45f4c5e81fc102fdd438894cc21fc32d38cf2e60dc15ea9'}
+  - {seq: 12, role: markers, filename: assets/KR6k0223_012.markers.yaml, hash: 'sha256:3f527a264d5dd7ea934bf4a225b4cf1c19a3bb1e03290ad87c912693846a5b16'}
+  - {seq: 13, role: markers, filename: assets/KR6k0223_013.markers.yaml, hash: 'sha256:93a36322ed33e4b8e7cc8237e09b1d545377cd5c16ab91ff5b80fffee69f4cdd'}
+  - {seq: 14, role: markers, filename: assets/KR6k0223_014.markers.yaml, hash: 'sha256:14a78fedb4e015b79c22e3102e6736da5135a4fb85795481e6565622168c82b6'}
+  - {seq: 15, role: markers, filename: assets/KR6k0223_015.markers.yaml, hash: 'sha256:b223e8586278b44f959bcf0ac0b775cfcdb27288aec57e59ae9b9e7722ad71ca'}
+  - {seq: 16, role: markers, filename: assets/KR6k0223_016.markers.yaml, hash: 'sha256:04b64a124962bbebe56b7adb764e0dda04dafa05e32064c2deb876d8cea6e738'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0223_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 709-A 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0223_X_000-mulu-2
+    span:
+    - front
+    - 258
+    - 258
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0223_X_000-mulu-3
+    span:
+    - front
+    - 1701
+    - 1701
+  label: 凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0223_X_000-mulu-4
+    span:
+    - front
+    - 2648
+    - 2648
+  label: 綱要
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0223_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 9865
+  label: 毗尼止持會集卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0223_X_001-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 略開七門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0223_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 15382
+  label: 毗尼止持會集卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0223_X_002-mulu-1
+    span:
+    - body
+    - 655
+    - 655
+  label: 初波羅夷法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0223_X_002-mulu-2
+    span:
+    - body
+    - 660
+    - 660
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0223_X_002-mulu-3
+    span:
+    - body
+    - 1199
+    - 1199
+  label: 第一婬戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0223_X_002-mulu-4
+    span:
+    - body
+    - 6782
+    - 6782
+  label: 第二盜戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0223_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 17697
+  label: 毗尼止持會集卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0223_X_003-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 第三殺戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0223_X_003-mulu-2
+    span:
+    - body
+    - 4191
+    - 4191
+  label: 第四妄語戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0223_X_003-mulu-3
+    span:
+    - body
+    - 7573
+    - 7573
+  label: 二僧伽婆尸沙法
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0223_X_003-mulu-4
+    span:
+    - body
+    - 7580
+    - 7580
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0223_X_003-mulu-5
+    span:
+    - body
+    - 7860
+    - 7860
+  label: 第一故弄失精戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0223_X_003-mulu-6
+    span:
+    - body
+    - 9447
+    - 9447
+  label: 第二女身相觸戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0223_X_003-mulu-7
+    span:
+    - body
+    - 11087
+    - 11087
+  label: 第三麤惡語戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0223_X_003-mulu-8
+    span:
+    - body
+    - 11903
+    - 11903
+  label: 第四歎身索欲戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0223_X_003-mulu-9
+    span:
+    - body
+    - 12899
+    - 12899
+  label: 第五媒嫁戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0223_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 16027
+  label: 毗尼止持會集卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0223_X_004-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 第六私房過量戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0223_X_004-mulu-2
+    span:
+    - body
+    - 2100
+    - 2100
+  label: 第七大房不處分戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0223_X_004-mulu-3
+    span:
+    - body
+    - 2319
+    - 2319
+  label: 第八無根謗戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0223_X_004-mulu-4
+    span:
+    - body
+    - 4127
+    - 4127
+  label: 第九取片謗戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0223_X_004-mulu-5
+    span:
+    - body
+    - 4657
+    - 4657
+  label: 第十不捨壞僧法戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0223_X_004-mulu-6
+    span:
+    - body
+    - 8162
+    - 8162
+  label: 第十一不捨惡黨破僧戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0223_X_004-mulu-7
+    span:
+    - body
+    - 9352
+    - 9352
+  label: 第十二被擯不服戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0223_X_004-mulu-8
+    span:
+    - body
+    - 12107
+    - 12107
+  label: 第十三不捨惡性戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0223_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 14246
+  label: 毗尼止持會集卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0223_X_005-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 三不定法
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0223_X_005-mulu-2
+    span:
+    - body
+    - 16
+    - 16
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0223_X_005-mulu-3
+    span:
+    - body
+    - 179
+    - 179
+  label: 初三不定法
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0223_X_005-mulu-4
+    span:
+    - body
+    - 1724
+    - 1724
+  label: 次二不定法
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0223_X_005-mulu-5
+    span:
+    - body
+    - 1989
+    - 1989
+  label: 四尼薩耆波逸提法
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0223_X_005-mulu-6
+    span:
+    - body
+    - 1997
+    - 1997
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0223_X_005-mulu-7
+    span:
+    - body
+    - 2171
+    - 2171
+  label: 第一衣過十日戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0223_X_005-mulu-8
+    span:
+    - body
+    - 5348
+    - 5348
+  label: 第二離衣異宿戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0223_X_005-mulu-9
+    span:
+    - body
+    - 7106
+    - 7106
+  label: 第三衣過一月戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0223_X_005-mulu-10
+    span:
+    - body
+    - 8271
+    - 8271
+  label: 第四從尼取衣戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0223_X_005-mulu-11
+    span:
+    - body
+    - 9319
+    - 9319
+  label: 第五使尼浣衣戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0223_X_005-mulu-12
+    span:
+    - body
+    - 10402
+    - 10402
+  label: 第六非親乞衣戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0223_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 14824
+  label: 毗尼止持會集卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0223_X_006-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 第七知足受衣戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0223_X_006-mulu-2
+    span:
+    - body
+    - 1051
+    - 1051
+  label: 第八貪好乞求戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0223_X_006-mulu-3
+    span:
+    - body
+    - 2067
+    - 2067
+  label: 第九貪好共索戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0223_X_006-mulu-4
+    span:
+    - body
+    - 2199
+    - 2199
+  label: 第十索衣過六反戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0223_X_006-mulu-5
+    span:
+    - body
+    - 4584
+    - 4584
+  label: 第十一乞綿作具戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0223_X_006-mulu-6
+    span:
+    - body
+    - 5655
+    - 5655
+  label: 第十二黑毛作具戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0223_X_006-mulu-7
+    span:
+    - body
+    - 6229
+    - 6229
+  label: 第十三減分作具戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0223_X_006-mulu-8
+    span:
+    - body
+    - 6933
+    - 6933
+  label: 第十四減年作具戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0223_X_006-mulu-9
+    span:
+    - body
+    - 7888
+    - 7888
+  label: 第十五不貼作具戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0223_X_006-mulu-10
+    span:
+    - body
+    - 9092
+    - 9092
+  label: 第十六遠持羊毛戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0223_X_006-mulu-11
+    span:
+    - body
+    - 9744
+    - 9744
+  label: 第十七使尼染羊毛戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0223_X_006-mulu-12
+    span:
+    - body
+    - 10239
+    - 10239
+  label: 第十八受金銀戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0223_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 13943
+  label: 毗尼止持會集卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0223_X_007-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 第十九賣買寶物戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0223_X_007-mulu-2
+    span:
+    - body
+    - 812
+    - 812
+  label: 第二十販賣戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0223_X_007-mulu-3
+    span:
+    - body
+    - 2364
+    - 2364
+  label: 第二十一畜長鉢戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0223_X_007-mulu-4
+    span:
+    - body
+    - 3982
+    - 3982
+  label: 第二十二畜鉢求好戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0223_X_007-mulu-5
+    span:
+    - body
+    - 5352
+    - 5352
+  label: 第二十三非親織衣戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0223_X_007-mulu-6
+    span:
+    - body
+    - 5868
+    - 5868
+  label: 第二十四勸織好衣戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0223_X_007-mulu-7
+    span:
+    - body
+    - 6638
+    - 6638
+  label: 第二十五與衣瞋奪戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0223_X_007-mulu-8
+    span:
+    - body
+    - 7689
+    - 7689
+  label: 第二十六過七日藥戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0223_X_007-mulu-9
+    span:
+    - body
+    - 8538
+    - 8538
+  label: 第二十七雨衣求用非時戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0223_X_007-mulu-10
+    span:
+    - body
+    - 9664
+    - 9664
+  label: 第二十八過時畜急施戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0223_X_007-mulu-11
+    span:
+    - body
+    - 10567
+    - 10567
+  label: 第二十九後月離衣過六夜戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0223_X_007-mulu-12
+    span:
+    - body
+    - 11720
+    - 11720
+  label: 第三十迴僧物入己戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0223_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 13314
+  label: 毗尼止持會集卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0223_X_008-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 五波逸提法
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0223_X_008-mulu-2
+    span:
+    - body
+    - 17
+    - 17
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0223_X_008-mulu-3
+    span:
+    - body
+    - 205
+    - 205
+  label: 第一故妄語戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0223_X_008-mulu-4
+    span:
+    - body
+    - 1486
+    - 1486
+  label: 第二毀呰戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0223_X_008-mulu-5
+    span:
+    - body
+    - 3069
+    - 3069
+  label: 第三兩舌戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0223_X_008-mulu-6
+    span:
+    - body
+    - 3690
+    - 3690
+  label: 第四與婦女同室宿戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0223_X_008-mulu-7
+    span:
+    - body
+    - 4415
+    - 4415
+  label: 第五與未受大戒三宿戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0223_X_008-mulu-8
+    span:
+    - body
+    - 5359
+    - 5359
+  label: 第六與未受戒人共誦戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0223_X_008-mulu-9
+    span:
+    - body
+    - 6683
+    - 6683
+  label: 第七說他麤罪戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0223_X_008-mulu-10
+    span:
+    - body
+    - 7738
+    - 7738
+  label: 第八向外人說法戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0223_X_008-mulu-11
+    span:
+    - body
+    - 8393
+    - 8393
+  label: 第九與女人過說法戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0223_X_008-mulu-12
+    span:
+    - body
+    - 9163
+    - 9163
+  label: 第十掘地戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0223_X_008-mulu-13
+    span:
+    - body
+    - 9997
+    - 9997
+  label: 第十一壞鬼神村戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0223_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 13757
+  label: 毗尼止持會集卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0223_X_009-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 第十二異語惱他戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0223_X_009-mulu-2
+    span:
+    - body
+    - 1058
+    - 1058
+  label: 第十三嫌罵戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0223_X_009-mulu-3
+    span:
+    - body
+    - 1561
+    - 1561
+  label: 第十四敷僧臥具不舉戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0223_X_009-mulu-4
+    span:
+    - body
+    - 3033
+    - 3033
+  label: 第十五僧房不舉臥具戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0223_X_009-mulu-5
+    span:
+    - body
+    - 3647
+    - 3647
+  label: 第十六強奪止宿戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0223_X_009-mulu-6
+    span:
+    - body
+    - 4669
+    - 4669
+  label: 第十七牽他出房戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0223_X_009-mulu-7
+    span:
+    - body
+    - 5435
+    - 5435
+  label: 第十八重閣坐脫脚牀戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0223_X_009-mulu-8
+    span:
+    - body
+    - 5761
+    - 5761
+  label: 第十九蟲水澆泥草戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0223_X_009-mulu-9
+    span:
+    - body
+    - 6464
+    - 6464
+  label: 第二十覆房過三節戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0223_X_009-mulu-10
+    span:
+    - body
+    - 7115
+    - 7115
+  label: 第二十一自往教尼戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0223_X_009-mulu-11
+    span:
+    - body
+    - 8359
+    - 8359
+  label: 第二十二教尼至暮戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0223_X_009-mulu-12
+    span:
+    - body
+    - 8876
+    - 8876
+  label: 第二十三譏論教尼戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0223_X_009-mulu-13
+    span:
+    - body
+    - 9235
+    - 9235
+  label: 第二十四與非親里尼衣戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0223_X_009-mulu-14
+    span:
+    - body
+    - 9766
+    - 9766
+  label: 第二十五與非親尼作衣戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0223_X_009-mulu-15
+    span:
+    - body
+    - 10199
+    - 10199
+  label: 第二十六與尼屏坐戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0223_X_009-mulu-16
+    span:
+    - body
+    - 10584
+    - 10584
+  label: 第二十七與尼同行戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0223_X_009-mulu-17
+    span:
+    - body
+    - 11433
+    - 11433
+  label: 第二十八與尼同船戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0223_X_009-mulu-18
+    span:
+    - body
+    - 11838
+    - 11838
+  label: 第二十九尼讚得食戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0223_X_009-mulu-19
+    span:
+    - body
+    - 12582
+    - 12582
+  label: 第三十婦女同行戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0223_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 12271
+  label: 毗尼止持會集卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0223_X_010-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 第三十一過受一食施戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0223_X_010-mulu-2
+    span:
+    - body
+    - 426
+    - 426
+  label: 第三十二展轉食戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0223_X_010-mulu-3
+    span:
+    - body
+    - 2034
+    - 2034
+  label: 第三十三別眾食戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0223_X_010-mulu-4
+    span:
+    - body
+    - 4223
+    - 4223
+  label: 第三十四過三鉢受請戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0223_X_010-mulu-5
+    span:
+    - body
+    - 5202
+    - 5202
+  label: 第三十五不作餘食法戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0223_X_010-mulu-6
+    span:
+    - body
+    - 7199
+    - 7199
+  label: 第三十六使他犯餘食法戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0223_X_010-mulu-7
+    span:
+    - body
+    - 7855
+    - 7855
+  label: 第三十七非時食戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0223_X_010-mulu-8
+    span:
+    - body
+    - 9379
+    - 9379
+  label: 第三十八殘宿食戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0223_X_010-mulu-9
+    span:
+    - body
+    - 10209
+    - 10209
+  label: 第三十九自取食戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0223_X_010-mulu-10
+    span:
+    - body
+    - 11208
+    - 11208
+  label: 第四十無病索美食戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0223_X_011-juan-start
+    span:
+    - body
+    - 0
+    - 12134
+  label: 毗尼止持會集卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0223_X_011-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 第四十一與外道食戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0223_X_011-mulu-2
+    span:
+    - body
+    - 1066
+    - 1066
+  label: 第四十二詣餘家不囑授戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0223_X_011-mulu-3
+    span:
+    - body
+    - 1881
+    - 1881
+  label: 第四十三食家強坐戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0223_X_011-mulu-4
+    span:
+    - body
+    - 2465
+    - 2465
+  label: 第四十四食家屏坐戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0223_X_011-mulu-5
+    span:
+    - body
+    - 2814
+    - 2814
+  label: 第四十五獨與女人坐戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0223_X_011-mulu-6
+    span:
+    - body
+    - 3160
+    - 3160
+  label: 第四十六故使他不得食戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0223_X_011-mulu-7
+    span:
+    - body
+    - 3871
+    - 3871
+  label: 第四十七過受藥戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0223_X_011-mulu-8
+    span:
+    - body
+    - 4966
+    - 4966
+  label: 第四十八觀軍陣戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0223_X_011-mulu-9
+    span:
+    - body
+    - 5560
+    - 5560
+  label: 第四十九軍中過三宿戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0223_X_011-mulu-10
+    span:
+    - body
+    - 6028
+    - 6028
+  label: 第五十觀軍事戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0223_X_011-mulu-11
+    span:
+    - body
+    - 6459
+    - 6459
+  label: 第五十一飲酒戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0223_X_011-mulu-12
+    span:
+    - body
+    - 7743
+    - 7743
+  label: 第五十二水中戲戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0223_X_011-mulu-13
+    span:
+    - body
+    - 8170
+    - 8170
+  label: 第五十三相擊攊戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0223_X_011-mulu-14
+    span:
+    - body
+    - 8562
+    - 8562
+  label: 第五十四不受諫戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0223_X_011-mulu-15
+    span:
+    - body
+    - 9022
+    - 9022
+  label: 第五十五恐怖他戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0223_X_011-mulu-16
+    span:
+    - body
+    - 9729
+    - 9729
+  label: 第五十六過洗浴戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0223_X_011-mulu-17
+    span:
+    - body
+    - 10522
+    - 10522
+  label: 第五十七露地然火戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0223_X_012-juan-start
+    span:
+    - body
+    - 0
+    - 11556
+  label: 毗尼止持會集卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0223_X_012-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 第五十八藏他物戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0223_X_012-mulu-2
+    span:
+    - body
+    - 544
+    - 544
+  label: 第五十九輙著淨施衣戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0223_X_012-mulu-3
+    span:
+    - body
+    - 854
+    - 854
+  label: 第六十衣不壞色戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0223_X_012-mulu-4
+    span:
+    - body
+    - 1603
+    - 1603
+  label: 第六十一殺生命戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0223_X_012-mulu-5
+    span:
+    - body
+    - 2400
+    - 2400
+  label: 第六十二飲用蟲水戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0223_X_012-mulu-6
+    span:
+    - body
+    - 3690
+    - 3690
+  label: 第六十三故惱他戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0223_X_012-mulu-7
+    span:
+    - body
+    - 4558
+    - 4558
+  label: 第六十四覆他麤罪戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0223_X_012-mulu-8
+    span:
+    - body
+    - 5494
+    - 5494
+  label: 第六十五授戒不如法戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0223_X_012-mulu-9
+    span:
+    - body
+    - 6816
+    - 6816
+  label: 第六十六發起諍事戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0223_X_012-mulu-10
+    span:
+    - body
+    - 7355
+    - 7355
+  label: 第六十七同賊伴行戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0223_X_012-mulu-11
+    span:
+    - body
+    - 8013
+    - 8013
+  label: 第六十八惡見不捨戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0223_X_012-mulu-12
+    span:
+    - body
+    - 9526
+    - 9526
+  label: 第六十九黨惡見不捨戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0223_X_012-mulu-13
+    span:
+    - body
+    - 10140
+    - 10140
+  label: 第七十畜被擯沙彌戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0223_X_013-juan-start
+    span:
+    - body
+    - 0
+    - 12100
+  label: 毗尼止持會集卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0223_X_013-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 第七十一拒諫難問戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0223_X_013-mulu-2
+    span:
+    - body
+    - 524
+    - 524
+  label: 第七十二輕訶說戒戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0223_X_013-mulu-3
+    span:
+    - body
+    - 1529
+    - 1529
+  label: 第七十三無知戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0223_X_013-mulu-4
+    span:
+    - body
+    - 2612
+    - 2612
+  label: 第七十四違反羯磨戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0223_X_013-mulu-5
+    span:
+    - body
+    - 3215
+    - 3215
+  label: 第七十五不與欲戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0223_X_013-mulu-6
+    span:
+    - body
+    - 3846
+    - 3846
+  label: 第七十六與欲後悔戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0223_X_013-mulu-7
+    span:
+    - body
+    - 4427
+    - 4427
+  label: 第七十七屏聽諍後語戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0223_X_013-mulu-8
+    span:
+    - body
+    - 5225
+    - 5225
+  label: 第七十八瞋打比丘戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0223_X_013-mulu-9
+    span:
+    - body
+    - 5946
+    - 5946
+  label: 第七十九瞋搏比丘戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0223_X_013-mulu-10
+    span:
+    - body
+    - 6454
+    - 6454
+  label: 第八十無根僧殘瞋謗戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0223_X_013-mulu-11
+    span:
+    - body
+    - 6773
+    - 6773
+  label: 第八十一輙入宮閾戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0223_X_013-mulu-12
+    span:
+    - body
+    - 7955
+    - 7955
+  label: 第八十二捉寶物戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0223_X_013-mulu-13
+    span:
+    - body
+    - 9949
+    - 9949
+  label: 第八十三非時入聚落戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0223_X_013-mulu-14
+    span:
+    - body
+    - 10642
+    - 10642
+  label: 第八十四作高牀戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0223_X_013-mulu-15
+    span:
+    - body
+    - 11255
+    - 11255
+  label: 第八十五兜羅綿貯褥戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0223_X_014-juan-start
+    span:
+    - body
+    - 0
+    - 11290
+  label: 毗尼止持會集卷第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0223_X_014-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 第八十六作骨牙鍼筒戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0223_X_014-mulu-2
+    span:
+    - body
+    - 501
+    - 501
+  label: 第八十七過量作坐具戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0223_X_014-mulu-3
+    span:
+    - body
+    - 1620
+    - 1620
+  label: 第八十八過量作覆瘡衣戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0223_X_014-mulu-4
+    span:
+    - body
+    - 2183
+    - 2183
+  label: 第八十九過量作雨浴衣戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0223_X_014-mulu-5
+    span:
+    - body
+    - 2536
+    - 2536
+  label: 第九十等佛衣量戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0223_X_014-mulu-6
+    span:
+    - body
+    - 3351
+    - 3351
+  label: 六波羅提提舍尼法
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0223_X_014-mulu-7
+    span:
+    - body
+    - 3359
+    - 3359
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0223_X_014-mulu-8
+    span:
+    - body
+    - 3553
+    - 3553
+  label: 第一受非親里尼食戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0223_X_014-mulu-9
+    span:
+    - body
+    - 4425
+    - 4425
+  label: 第二不止尼代索食戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0223_X_014-mulu-10
+    span:
+    - body
+    - 5206
+    - 5206
+  label: 第三學家受食戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0223_X_014-mulu-11
+    span:
+    - body
+    - 5972
+    - 5972
+  label: 第四恐處受食戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0223_X_014-mulu-12
+    span:
+    - body
+    - 7284
+    - 7284
+  label: 七眾學法
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0223_X_015-juan-start
+    span:
+    - body
+    - 0
+    - 12042
+  label: 毗尼止持會集卷第十五
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0223_X_016-juan-start
+    span:
+    - body
+    - 0
+    - 12192
+  label: 毗尼止持會集卷第十六
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0223_X_016-mulu-1
+    span:
+    - body
+    - 3770
+    - 3770
+  label: 八七滅諍法
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0223_X_016-mulu-2
+    span:
+    - body
+    - 3775
+    - 3775
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0223_X_016-mulu-3
+    span:
+    - body
+    - 4249
+    - 4249
+  label: 現前滅諍法第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0223_X_016-mulu-4
+    span:
+    - body
+    - 7532
+    - 7532
+  label: 憶念滅諍法第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0223_X_016-mulu-5
+    span:
+    - body
+    - 8011
+    - 8011
+  label: 不癡滅諍法第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0223_X_016-mulu-6
+    span:
+    - body
+    - 8342
+    - 8342
+  label: 自言治滅諍法第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0223_X_016-mulu-7
+    span:
+    - body
+    - 9005
+    - 9005
+  label: 覓罪滅諍法第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0223_X_016-mulu-8
+    span:
+    - body
+    - 9512
+    - 9512
+  label: 多人語滅諍法第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0223_X_016-mulu-9
+    span:
+    - body
+    - 11142
+    - 11142
+  label: 草覆地滅諍法第七
+  type: mulu
+  level: 1
+hash: sha256:66809a398a6be98607d8e39142946789678c6936aefefe43de2aa7ec8309d19a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
