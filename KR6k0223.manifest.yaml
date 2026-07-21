@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0223_000.yaml, hash: 'sha256:1e9303f8ec8a8e7987270196b85572da1070c97eb1161d676bb3e82dc6e7842f'}
+  - {seq: 0, filename: KR6k0223_000.yaml, hash: 'sha256:4a27b816ed07d3a20cf0052ed9c87a841a2d57cddd4220194ef046a23df3f1e4'}
   - {seq: 1, filename: KR6k0223_001.yaml, hash: 'sha256:6b81bc54040f58b70d07cc52f83e31dff0b1e6af86d87d8df6f2a41523885ac5'}
   - {seq: 2, filename: KR6k0223_002.yaml, hash: 'sha256:15319fb830e61940079b04612704a82d029a42f51ee72f9e241950416eabb68e'}
   - {seq: 3, filename: KR6k0223_003.yaml, hash: 'sha256:77788e1856541bc8065ffd7243584400d4c865a695a55797d7a72e3c25be75f9'}
@@ -39,7 +39,7 @@ assets:
   - {seq: 15, filename: KR6k0223_015.yaml, hash: 'sha256:a18b2ae885b70c491d3fa97648dd82b42ebd8ec6f1b2d0e40aff16b1674db87f'}
   - {seq: 16, filename: KR6k0223_016.yaml, hash: 'sha256:67dbafe02443bef43a0193d36043c85a5471f006e9acd6f19a9799ee7ebaa694'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0223_000.markers.yaml, hash: 'sha256:eacb12bcccd9f8138421b0946fbd9fd07252daf80ae98ef3c320ea31a8cc0cb2'}
+  - {seq: 0, role: markers, filename: assets/KR6k0223_000.markers.yaml, hash: 'sha256:b434577202916535b00655ecfa31734354af6c6ca22bafb11ebb88c5d2601417'}
   - {seq: 1, role: markers, filename: assets/KR6k0223_001.markers.yaml, hash: 'sha256:4842c268e720c1e47a3635ae843863b0a787adf87ed4f795f93b4710102594da'}
   - {seq: 2, role: markers, filename: assets/KR6k0223_002.markers.yaml, hash: 'sha256:79aa56cd172856f773d5ddfe82e3eeffb48bfa7e9b588c2419c83daa270f4e1f'}
   - {seq: 3, role: markers, filename: assets/KR6k0223_003.markers.yaml, hash: 'sha256:d2deb483d8aae9498392d8ff8a259f18699173d3d74577fd45a3628e342f80e2'}
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0223_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 709-A 序
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0223_X_000-mulu-2
     span:
-    - front
+    - body
     - 258
     - 258
   label: 目次
@@ -81,7 +81,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0223_X_000-mulu-3
     span:
-    - front
+    - body
     - 1701
     - 1701
   label: 凡例
@@ -91,7 +91,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0223_X_000-mulu-4
     span:
-    - front
+    - body
     - 2648
     - 2648
   label: 綱要
@@ -1917,7 +1917,7 @@ table_of_contents:
   label: 草覆地滅諍法第七
   type: mulu
   level: 1
-hash: sha256:dfc76d5aa24cc19a154c718dee086ca2d9dfaf4dca811dc34077a027b58ca7d7
+hash: sha256:7c04ad10a640d6ee7333cbc166eb2d6d5696462afa0b25ff92af87b15c79a7c4
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
